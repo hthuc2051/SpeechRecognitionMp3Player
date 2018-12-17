@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E946D5A3-32EE-43DD-9D56-94F076492838}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Music</RootNamespace>
+    <AssemblyName>Music</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AudioSwitcher.AudioApi, Version=3.0.0.209, Culture=neutral, PublicKeyToken=fda5729e2db3a64f, processorArchitecture=MSIL">
+      <HintPath>..\packages\AudioSwitcher.AudioApi.3.0.0\lib\net40\AudioSwitcher.AudioApi.dll</HintPath>
+    </Reference>
+    <Reference Include="AudioSwitcher.AudioApi.CoreAudio, Version=3.0.0.209, Culture=neutral, PublicKeyToken=fda5729e2db3a64f, processorArchitecture=MSIL">
+      <HintPath>..\packages\AudioSwitcher.AudioApi.CoreAudio.3.0.0.1\lib\net40\AudioSwitcher.AudioApi.CoreAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="NAudio, Version=1.8.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\NAudio.1.8.4\lib\net35\NAudio.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminAlbumForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminAlbumForm.Designer.cs">
+      <DependentUpon>AdminAlbumForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminArtistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminArtistForm.Designer.cs">
+      <DependentUpon>AdminArtistForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPlaylistForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPlaylistForm.Designer.cs">
+      <DependentUpon>AdminPlaylistForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminUserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminUserForm.Designer.cs">
+      <DependentUpon>AdminUserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Albums.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Albums.Designer.cs">
+      <DependentUpon>Albums.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSongForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSongForm.Designer.cs">
+      <DependentUpon>AdminSongForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="LoginControl.Designer.cs">
+      <DependentUpon>LoginControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusicPlayerDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MusicPlayerDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MyTrackBar.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="thucnh.dtos\AlbumDTO.cs" />
+    <Compile Include="thucnh.dtos\ArtistDTO.cs" />
+    <Compile Include="thucnh.dtos\PlaylistDTO.cs" />
+    <Compile Include="thucnh.dtos\SongDTO.cs" />
+    <Compile Include="thucnh.dtos\UserDTO.cs" />
+    <Compile Include="thucnh.models\AlbumDAO.cs" />
+    <Compile Include="thucnh.models\ArtistDAO.cs" />
+    <Compile Include="thucnh.models\PlaylistDAO.cs" />
+    <Compile Include="thucnh.models\SongDAO.cs" />
+    <Compile Include="thucnh.models\UserDAO.cs" />
+    <EmbeddedResource Include="AdminAlbumForm.resx">
+      <DependentUpon>AdminAlbumForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminArtistForm.resx">
+      <DependentUpon>AdminArtistForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPlaylistForm.resx">
+      <DependentUpon>AdminPlaylistForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminUserForm.resx">
+      <DependentUpon>AdminUserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Albums.resx">
+      <DependentUpon>Albums.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSongForm.resx">
+      <DependentUpon>AdminSongForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginControl.resx">
+      <DependentUpon>LoginControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="MusicPlayerDataSet.xsc">
+      <DependentUpon>MusicPlayerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="MusicPlayerDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>MusicPlayerDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MusicPlayerDataSet.xss">
+      <DependentUpon>MusicPlayerDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

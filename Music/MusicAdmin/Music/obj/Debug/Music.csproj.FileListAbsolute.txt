@@ -1,0 +1,102 @@
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\bin\Debug\Music.exe.config
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\bin\Debug\Music.exe
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\bin\Debug\Music.pdb
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\obj\Debug\Music.Form1.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\obj\Debug\Music.exe
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\C#\Music\Music\obj\Debug\Music.pdb
+E:\NET\Presentation\Music\Music\Music\bin\Debug\Music.exe.config
+E:\NET\Presentation\Music\Music\Music\bin\Debug\Music.exe
+E:\NET\Presentation\Music\Music\Music\bin\Debug\Music.pdb
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.Form1.resources
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.Properties.Resources.resources
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.exe
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.pdb
+E:\NET\Presentation\Music\Music\Music\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+E:\NET\Presentation\Music\Music\Music\bin\Debug\AudioSwitcher.AudioApi.dll
+E:\NET\Presentation\Music\Music\Music\obj\Debug\Music.csproj.CopyComplete
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\bin\Debug\Music.exe.config
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\bin\Debug\Music.exe
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\bin\Debug\Music.pdb
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.Form1.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.csproj.CopyComplete
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.exe
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.pdb
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.Albums.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.Login.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.LoginControl.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\Music\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+E:\NET\Test\Music\Music\Music\bin\Debug\Music.exe.config
+E:\NET\Test\Music\Music\Music\bin\Debug\Music.exe
+E:\NET\Test\Music\Music\Music\bin\Debug\Music.pdb
+E:\NET\Test\Music\Music\Music\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+E:\NET\Test\Music\Music\Music\bin\Debug\AudioSwitcher.AudioApi.dll
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.csprojAssemblyReference.cache
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.Albums.resources
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.LoginControl.resources
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.Properties.Resources.resources
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.csproj.GenerateResource.cache
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.csproj.CopyComplete
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.exe
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.pdb
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.AdminForm.resources
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.AdminPlaylistForm.resources
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.AdminAlbumForm.resources
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.AdminArtistForm.resources
+E:\NET\Test\Music\Music\Music\obj\Debug\Music.AdminUserForm.resources
+E:\NET\Test\Music\Music\Music\bin\Debug\NAudio.dll
+E:\NET\Test\Music\Music\Music\bin\Debug\NAudio.xml
+E:\NET\Music\MusicAdmin\Music\bin\Debug\Music.exe.config
+E:\NET\Music\MusicAdmin\Music\bin\Debug\Music.exe
+E:\NET\Music\MusicAdmin\Music\bin\Debug\Music.pdb
+E:\NET\Music\MusicAdmin\Music\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+E:\NET\Music\MusicAdmin\Music\bin\Debug\AudioSwitcher.AudioApi.dll
+E:\NET\Music\MusicAdmin\Music\bin\Debug\NAudio.dll
+E:\NET\Music\MusicAdmin\Music\bin\Debug\NAudio.xml
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.csprojAssemblyReference.cache
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.AdminAlbumForm.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.AdminArtistForm.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.AdminPlaylistForm.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.AdminUserForm.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.Albums.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.AdminForm.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.LoginControl.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.Properties.Resources.resources
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.csproj.GenerateResource.cache
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.csproj.CopyComplete
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.exe
+E:\NET\Music\MusicAdmin\Music\obj\Debug\Music.pdb
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\bin\Debug\Music.exe.config
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\bin\Debug\Music.exe
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\bin\Debug\Music.pdb
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\bin\Debug\NAudio.dll
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\bin\Debug\NAudio.xml
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.csprojAssemblyReference.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.AdminAlbumForm.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.AdminArtistForm.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.AdminPlaylistForm.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.AdminUserForm.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.Albums.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.AdminForm.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.LoginControl.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.Properties.Resources.resources
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.csproj.GenerateResource.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.csproj.CopyComplete
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.exe
+C:\Users\Chiaki\Documents\SUBJECT TO LEARN\New folder\Music\MusicAdmin\Music\obj\Debug\Music.pdb
