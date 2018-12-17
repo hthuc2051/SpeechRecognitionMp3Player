@@ -1,0 +1,30 @@
+<Configuration>
+  <CompletionStatisticsManager />
+  <EditorManager>
+    <RecentFiles>
+      <File id="16E224DC-7FF0-4908-8318-D6A3AC2E797A/f:ColorSlider.Designer.cs" caret="21" visual-x="0" visual-y="0" />
+      <File id="16E224DC-7FF0-4908-8318-D6A3AC2E797A/f:ColorSlider.cs" caret="130" visual-x="0" visual-y="0" />
+      <File id="E208C1C9-FD79-4E94-8DDE-7FF57C1603DE/f:frmMain.Designer.cs" caret="18324" visual-x="0" visual-y="51" />
+      <File id="E208C1C9-FD79-4E94-8DDE-7FF57C1603DE/f:frmMain.cs" caret="203" visual-x="0" visual-y="0" />
+    </RecentFiles>
+  </EditorManager>
+  <FileStructureView>
+    <AutoScrollToSource>False</AutoScrollToSource>
+    <TrackCaretLocation>False</TrackCaretLocation>
+  </FileStructureView>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <ReFormatCode>
+    <OptimizeUsings>True</OptimizeUsings>
+    <RemoveRedundantThis>True</RemoveRedundantThis>
+    <ShortenReferences>True</ShortenReferences>
+    <DecorateModifiers>True</DecorateModifiers>
+  </ReFormatCode>
+  <SharedSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </SharedSolutionDisabledTemplatesManager>
+  <UserSolutionDisabledTemplatesManager>
+    <DisabledTemplates />
+  </UserSolutionDisabledTemplatesManager>
+</Configuration>

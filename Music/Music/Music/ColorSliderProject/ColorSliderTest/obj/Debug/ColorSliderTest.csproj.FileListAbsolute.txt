@@ -1,0 +1,48 @@
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSliderTest.exe
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSliderTest.pdb
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSlider.dll
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSlider.pdb
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.csprojResolveAssemblyReference.cache
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.Properties.Resources.resources
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.csproj.GenerateResource.Cache
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.exe
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.pdb
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSliderTest.exe
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSliderTest.pdb
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSlider.dll
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSlider.pdb
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.csprojResolveAssemblyReference.cache
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.Properties.Resources.resources
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.csproj.GenerateResource.Cache
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.exe
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.pdb
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.Form2.resources
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSliderTest.exe.config
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.Form1.resources
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\bin\Debug\ColorSliderTest.exe.config
+C:\Users\Fabrice\Documents\Visual Studio 2017\Projects\ColorSlider\ColorSliderTest\obj\Debug\ColorSliderTest.Form1.resources
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSliderTest.exe.config
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSliderTest.exe
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSliderTest.pdb
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSlider.dll
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSlider.pdb
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.csprojResolveAssemblyReference.cache
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.Form1.resources
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.Properties.Resources.resources
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.csproj.GenerateResource.Cache
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.csproj.CoreCompileInputs.cache
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.exe
+C:\Users\a453868\Documents\Visual Studio 2017\Projects\Buttons\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.pdb
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSliderTest.exe.config
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSliderTest.exe
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSliderTest.pdb
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSlider.dll
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\bin\Debug\ColorSlider.pdb
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.csprojAssemblyReference.cache
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.Form1.resources
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.Properties.Resources.resources
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.csproj.GenerateResource.cache
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.csproj.CoreCompileInputs.cache
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.csproj.CopyComplete
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.exe
+F:\Download\ColorSliderProject\ColorSliderProject\ColorSliderTest\obj\Debug\ColorSliderTest.pdb
